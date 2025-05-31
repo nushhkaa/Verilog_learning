@@ -1,6 +1,11 @@
-# Verilog Practice Repository
+# Verilog Practice
 
-Welcome to my Verilog HDL practice repository!
-This repository is a collection of my initial and practice codes written in **Verilog Hardware Description Language**. It will grow as I continue learning and working on more complex designs, including a **processor design project** as part of my final project.
+Welcome to the **Verilog Practice** repository! This is a personal collection of my learning journey with Verilog Hardware Description Language (HDL). The repository includes beginner-level practice codes, exploratory projects, and will eventually house a complete processor design I'm currently working on.
 
----
+## 🛠️ What This Repo Contains
+
+- 🔰 **Introductory Verilog Programs**: Basic syntax and fundamental constructs.
+- 🧪 **Practice Modules**: Small modules to test different Verilog concepts (e.g., always blocks, FSMs, mux/demux, etc.).
+- 🧰 **Testbenches**: Simulations to validate each module's functionality.
+- 🧠 **Processor Design (WIP)**: An evolving project that will implement a custom-designed processor from the ground up.
+
